@@ -72,3 +72,14 @@ body {
     bottom: 10%;
 }
 
+.about-me {
+    height: 600px;
+    background-color: #69D331;
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+}
+
+.about-me h1 {
+    margin: 0;
+}
