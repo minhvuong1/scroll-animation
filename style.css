@@ -75,7 +75,7 @@ body {
 }
 
 .about-me {
-    height: 600px;
+    height: 100vh;
     background-color: #69D331;
     padding: 40px;
     display: flex;
